@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [zap3](https://github.com/traxonLp/zap3)
 
-- 🌱 I’m currently learning **MQTT, Python, TS, CSS, HTML, JS**
+- 🌱 I’m currently learning **Java, Python, TS, JS**
 
 - ⚡ Fun fact **There’s enough gold inside Earth to coat the planet**
 
