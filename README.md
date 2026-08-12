@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [zap3](https://github.com/traxonLp/zap3)
 
-- 🌱 I’m currently lonely
+- 🌱 I am because I am
 
 - ⚡ Fun fact **There’s enough gold inside Earth to coat the planet**
 
