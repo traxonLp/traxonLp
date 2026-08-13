@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
-<h3 align="center">A idiot from Germany</h3>
+<h3 align="center">A 🤡 from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=traxonlp&label=Profile%20views&color=0e75b6&style=flat" alt="traxonlp" /> </p>
 
-- 🔭 I’m currently working on [zap3](https://github.com/traxonLp/zap3)
+- 🔭 I’m currently working on Open Source Nuclear Bombs 
 
 - 🌱 I am because I am
 
